@@ -7,8 +7,35 @@
 			"files": [
 				"D:/GameJam2026/game_jam26/Content/UI/MainMenuUI.uasset",
 				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/OptionsUI.uasset",
-				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BP_PC_Main.uasset",
-				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Input/Actions/IA_Grab.uasset"
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Input/Actions/IA_Grab.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/PressStart2P.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/MainMenuUI.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/PressStart2P_Font.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Maps/NewWorld.umap",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Input/Controls.uasset",
+				"D:/GameJam2026/game_jam26/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/buttons/UI_dialog.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/buttons/UI_exit.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/buttons/UI_option.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/buttons/UI_start.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/buttons/UI_title.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/WB_Settings.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/WB_KeyMapping.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/WB_Keymap.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BPI_Interact.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/UI_HUD.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/UI_HUD.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/HUD/UI_HUD.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/HUD/crosshair_temp.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/HUD/UI_Interact.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/HUD/UI_dialog.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/HUD/M_Outline.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BP_MasterItem.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/kulkaXd.uasset",
+				"D:/GameJam2026/game_jam26/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/CK/UCY07PUWE1CS97QC6ZIX98.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BP_PC_Main.uasset"
 			]
 		}
 	]
