@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GameJam2026/game_jam26/Content/UI/MainMenuUI.uasset"
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenuUI.uasset",
+				"D:/GameJam2026/game_jam26/Content/UI/MainMenu/OptionsUI.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Blueprints/BP_PC_Main.uasset",
+				"D:/GameJam2026/game_jam26/Content/ThirdPerson/Input/Actions/IA_Grab.uasset"
 			]
 		}
 	]
