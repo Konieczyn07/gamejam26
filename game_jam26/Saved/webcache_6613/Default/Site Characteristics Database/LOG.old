@@ -1,6 +1,1 @@
-2026/03/18-13:21:20.277 52d8 Log #6: 1 ops saved to Table #7 OK
-2026/03/18-13:21:20.290 52d8 Archiving C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/03/18-13:21:20.291 52d8 Table #4: 4 entries OK
-2026/03/18-13:21:20.291 52d8 Table #7: 1 entries OK
-2026/03/18-13:21:20.297 52d8 Archiving C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/18-13:21:20.304 52d8 **** Repaired leveldb C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 404 bytes. Some data may have been lost. ****
+2026/03/18-13:21:20.311 52d8 Reusing MANIFEST C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
