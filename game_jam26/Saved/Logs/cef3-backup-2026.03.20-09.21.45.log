@@ -1,47 +1,0 @@
-[5668:11564:0320/095823.016:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5668:11564:0320/095823.158:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Nieprawidłowy klucz do użycia w podanym stanie. (0x8009000B)
-[5668:11564:0320/095823.192:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5668:4560:0320/095831.086:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:4560:0320/095831.090:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:4560:0320/095831.093:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:4560:0320/095831.097:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:4560:0320/095832.628:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:4560:0320/095832.652:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:25516:0320/095832.667:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[5668:11564:0320/095833.926:ERROR:device_event_log_impl.cc(196)] [09:58:32.617] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
-[1096:18612:0320/095835.011:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E9630040077B11A07DA99DC998143784 will be ignored
-[2256:312:0320/095835.014:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.161:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.161:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.161:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.161:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.161:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.162:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.162:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.321:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.322:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.322:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.322:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.723:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.886:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095835.887:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095836.283:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095836.283:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095836.283:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[2256:312:0320/095836.283:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[5668:11564:0320/102145.398:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

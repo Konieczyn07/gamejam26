@@ -1,3 +1,8 @@
-2026/03/20-10:22:11.836 4518 Reusing MANIFEST D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/20-10:22:11.841 4518 Recovering log #3
-2026/03/20-10:22:11.843 4518 Reusing old log D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/20-11:08:45.907 b94 Reusing MANIFEST D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-11:08:45.913 b94 Recovering log #9
+2026/03/20-11:08:45.913 b94 Level-0 table #11: started
+2026/03/20-11:08:45.973 b94 Level-0 table #11: 69246 bytes OK
+2026/03/20-11:08:45.973 b94 Recovering log #11
+2026/03/20-11:08:45.975 b94 Reusing old log D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
+2026/03/20-11:08:46.011 b94 Delete type=0 #9
+2026/03/20-11:08:46.011 b94 Delete type=2 #12
