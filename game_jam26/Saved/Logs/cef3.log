@@ -9,3 +9,4 @@
 [21292:17504:0320/092532.752:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-3242E3BE787725BFAD5612D9EADC359A will be ignored
 [8980:19576:0320/092535.826:ERROR:device_event_log_impl.cc(196)] [09:25:35.812] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Nie można odnaleźć elementu. (0x490)
 [8980:4296:0320/092536.036:WARNING:leveldb_database.cc(141)] Unable to open D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: D:\GameJam2026\game_jam26\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[8980:19576:0320/095028.039:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
