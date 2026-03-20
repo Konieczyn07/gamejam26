@@ -1,8 +1,12 @@
-2026/03/20-01:47:09.956 3fa8 Reusing MANIFEST C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/20-01:47:09.962 3fa8 Recovering log #9
-2026/03/20-01:47:09.964 3fa8 Reusing old log C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/000009.log 
-2026/03/20-01:48:18.812 3450 Level-0 table #12: started
-2026/03/20-01:48:18.815 3450 Level-0 table #12: 68783 bytes OK
-2026/03/20-01:48:18.816 3450 Delete type=0 #9
-2026/03/20-01:48:18.817 3450 Compacting 4@0 + 0@1 files
-2026/03/20-01:48:18.820 3450 compacted to: files[ 4 0 0 0 0 0 0 ]
+2026/03/20-01:49:02.759 1d10 Reusing MANIFEST C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/20-01:49:02.765 1d10 Recovering log #11
+2026/03/20-01:49:02.767 1d10 Reusing old log C:\Users\student\Documents\Unreal Projects\game_jam26\game_jam26\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
+2026/03/20-01:49:02.767 1d10 Delete type=2 #13
+2026/03/20-01:49:02.768 3e04 Compacting 4@0 + 0@1 files
+2026/03/20-01:49:02.772 3e04 Generated table #14@0: 7 keys, 13639 bytes
+2026/03/20-01:49:02.772 3e04 Compacted 4@0 + 0@1 files => 13639 bytes
+2026/03/20-01:49:02.773 3e04 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/20-01:49:02.774 3e04 Delete type=2 #3
+2026/03/20-01:49:02.774 3e04 Delete type=2 #6
+2026/03/20-01:49:02.775 3e04 Delete type=2 #9
+2026/03/20-01:49:02.775 3e04 Delete type=2 #12
